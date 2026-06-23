@@ -1,25 +1,17 @@
-<div align="center">
+<div>
 
 ![header](./header.svg)
 
-<br/>
+Email: [build@eloishema.dev](mailto:build@eloishema.dev)
 
-[![Email](https://img.shields.io/badge/Email-contact%40eloishema.dev-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@eloishema.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eloi_Shema-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eloishema/)
+LinkedIn: [Eloi Shema](https://www.linkedin.com/in/eloishema)
 <br/>
-
-Live projects:
-<br/>
-
-[![Trapeloi](https://img.shields.io/badge/Live-trapeloi.com-0d8f54?style=flat-square)](https://trapeloi.com)
-[![Zone7](https://img.shields.io/badge/Live-zone7.rw-0d8f54?style=flat-square)](https://zone7.rw)
-[![Wedding Photo App](https://img.shields.io/badge/Live-wedding.eloishema.dev-0d8f54?style=flat-square)](https://wedding.eloishema.dev/)
 
 </div>
 
 ---
 
-## Projects in Production
+## LIVE PROJECTS
 
 ### [Trapeloi](https://trapeloi.com) - Beat Store
 
