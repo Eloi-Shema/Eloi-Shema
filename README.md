@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 ![header](./header.svg)
 
@@ -11,9 +11,9 @@
 Live projects:
 <br/>
 
-[![Trapeloi](https://img.shields.io/badge/Live-trapeloi.com-256333?style=flat-square)](https://trapeloi.com)
-[![Zone7](https://img.shields.io/badge/Live-zone7.rw-256333?style=flat-square)](https://zone7.rw)
-[![Wedding Photo App](https://img.shields.io/badge/Live-wedding.eloishema.dev-256333?style=flat-square)](https://wedding.eloishema.dev/)
+[![Trapeloi](https://img.shields.io/badge/Live-trapeloi.com-0d8f54?style=flat-square)](https://trapeloi.com)
+[![Zone7](https://img.shields.io/badge/Live-zone7.rw-0d8f54?style=flat-square)](https://zone7.rw)
+[![Wedding Photo App](https://img.shields.io/badge/Live-wedding.eloishema.dev-0d8f54?style=flat-square)](https://wedding.eloishema.dev/)
 
 </div>
 
@@ -24,6 +24,13 @@ Live projects:
 ### [Trapeloi](https://trapeloi.com) - Beat Store
 
 A music licensing platform I designed, built and maintain solo. A producer upload beats; buyers purchase a lifetime license and download them. No subscriptions, no leases, one payment, full ownership.
+
+<table>
+  <tr>
+    <td><a href="https://trapeloi.com"><img src="./assets/trapeloi-1.png" width="380" alt="Trapeloi homepage"/></a></td>
+    <td><a href="https://trapeloi.com"><img src="./assets/trapeloi-2.png" width="380" alt="Trapeloi beat listing"/></a></td>
+  </tr>
+</table>
 
 **What's under the hood:**
 - Auth via `better-auth` sessions, email verification, OAuth flows
@@ -52,6 +59,13 @@ A music licensing platform I designed, built and maintain solo. A producer uploa
 
 Delivered as a paid freelance contract. A full property browsing and management platform, listings with search and filtering, plus an admin dashboard for managing properties, users, and inquiries.
 
+<table>
+  <tr>
+    <td><a href="https://zone7.rw"><img src="./assets/zone7-1.png" width="380" alt="Zone7 property listings"/></a></td>
+    <td><a href="https://zone7.rw"><img src="./assets/zone7-2.png" width="380" alt="Zone7 property detail"/></a></td>
+  </tr>
+</table>
+
 **Architecture highlights:**
 - Role-based access control (User / Broker / Admin) built on `NextAuth.js` with custom JWT extensions, refresh token rotation, concurrency protection, device tracking
 - Rate limiting middleware on sensitive API routes
@@ -71,6 +85,12 @@ Delivered as a paid freelance contract. A full property browsing and management 
 ### [Wedding Photo App](https://wedding.eloishema.dev) - Shipped for a Live Marriage Event
 
 A mobile-first photo-sharing app for a wedding. Guests scan a QR code, open in browser, upload photos, no app install needed. Gallery auto-refreshes every 30 seconds. Built, deployed, and running on the day.
+
+<table>
+  <tr>
+    <td><a href="https://wedding.eloishema.dev"><img src="./assets/wedding-1.png" width="380" alt="Wedding app upload screen"/></a></td>
+  </tr>
+</table>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
