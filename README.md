@@ -1,5 +1,7 @@
 ![header](./header.svg)
 
+Email: [build@eloishema.dev](mailto:build@eloishema.dev)
+
 ## LIVE PROJECTS
 
 ### [Trapeloi](https://trapeloi.com) - Beat Store
