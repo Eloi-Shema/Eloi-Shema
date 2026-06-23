@@ -1,15 +1,4 @@
-<div>
-
 ![header](./header.svg)
-
-Email: [build@eloishema.dev](mailto:build@eloishema.dev)
-
-LinkedIn: [Eloi Shema](https://www.linkedin.com/in/eloishema)
-<br/>
-
-</div>
-
----
 
 ## LIVE PROJECTS
 
