@@ -11,9 +11,9 @@
 Live projects:
 <br/>
 
-[![Trapeloi](https://img.shields.io/badge/Live-trapeloi.com-111827?style=flat-square)](https://trapeloi.com)
-[![Zone7](https://img.shields.io/badge/Live-zone7.rw-111827?style=flat-square)](https://zone7.rw)
-[![Wedding Photo App](https://img.shields.io/badge/Live-wedding.eloishema.dev-111827?style=flat-square)](https://wedding.eloishema.dev/)
+[![Trapeloi](https://img.shields.io/badge/Live-trapeloi.com-256333?style=flat-square)](https://trapeloi.com)
+[![Zone7](https://img.shields.io/badge/Live-zone7.rw-256333?style=flat-square)](https://zone7.rw)
+[![Wedding Photo App](https://img.shields.io/badge/Live-wedding.eloishema.dev-256333?style=flat-square)](https://wedding.eloishema.dev/)
 
 </div>
 
@@ -44,7 +44,7 @@ A music licensing platform I designed, built and maintain solo. A producer uploa
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![LemonSqueezy](https://img.shields.io/badge/LemonSqueezy-FFD700?style=for-the-badge&logoColor=black)
 ![BetterAuth](https://img.shields.io/badge/better--auth-111827?style=for-the-badge&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=for-the-badge&logoColor=black)
+![Upstash](https://img.shields.io/badge/Upstash_Redis-c93131?style=for-the-badge&logoColor=black)
 
 ---
 
@@ -68,7 +68,7 @@ Delivered as a paid freelance contract. A full property browsing and management 
 
 ---
 
-### Wedding Photo App - Shipped for a Live Event
+### [Wedding Photo App](https://wedding.eloishema.dev) - Shipped for a Live Marriage Event
 
 A mobile-first photo-sharing app for a wedding. Guests scan a QR code, open in browser, upload photos, no app install needed. Gallery auto-refreshes every 30 seconds. Built, deployed, and running on the day.
 
