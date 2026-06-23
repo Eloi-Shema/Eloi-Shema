@@ -12,13 +12,13 @@
       /* text colors */
       .name {
         font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-        font-size: 38px;
+        font-size: 46px;
         font-weight: 700;
         fill: #111827;
       }
       .sub {
         font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-        font-size: 13px;
+        font-size: 16px;
         fill: #6B7280;
         letter-spacing: 0.08em;
       }
@@ -96,10 +96,4 @@
   <!-- subtitle text + mask -->
   <text class="sub" x="48" y="76">FULL-STACK DEVELOPER  ·  OPEN TO REMOTE ROLES</text>
   <rect class="mask-sub" x="48" y="60" width="400" height="24"/>
-
-  <!-- blinking cursor after name -->
-  <rect class="cursor" x="258" y="22" width="3" height="32" rx="1"/>
-
-  <!-- bottom line -->
-  <line class="line" x1="48" y1="92" x2="390" y2="92"/>
 </svg>
