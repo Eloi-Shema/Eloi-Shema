@@ -21,7 +21,7 @@ A music licensing platform I designed, built and maintain solo. A producer uploa
 - Beat files served from `Cloudflare R2` via signed URLs with access control
 - Payments and licensing through `LemonSqueezy`
 - Error monitoring via `Sentry` with custom alerting for any server side error
-- Transactional email via `Brevo`. Resolved a production 401 caused by Vercel serverless IP rotation
+- Transactional email via `Brevo`.
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
