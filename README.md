@@ -61,7 +61,34 @@ Delivered as a paid freelance contract. A full property browsing and management 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)]
+
+---
+
+### [Dukundekawa](https://dukundekawa.rw) - Coffee farmers website
+
+Revamped the web presence of Rwanda specialty coffee cooperative, with improved simplistic UI, user management and blogging system.
+
+<table>
+  <tr>
+    <td><a href="https://dukundekawa.rw"><img src="./assets/projects/Women/Much Care and affections put in coffee farming results in most elegant coffees in world.webp" width="380" alt="Dukundekawa"/></a></td>
+    <td><a href="https://dukundekawa.rw/"><img src="./assets/projects/Women/Women Harvesting Coffee.webp" width="380" alt="Dukundekawa"/></a></td>
+  </tr>
+</table>
+
+**Architecture highlights:**
+- Role-based access control (User / Admin) built on `NextAuth.js` with custom JWT extensions, refresh token rotation, concurrency protection, device tracking
+- Rate limiting middleware on sensitive API routes
+- Blog image management via `Cloudinary`
+- Email notifications via `Brevo`
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)]
 
 ---
 
