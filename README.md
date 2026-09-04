@@ -61,7 +61,7 @@ Delivered as a paid freelance contract. A full property browsing and management 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)]
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)
 
 ---
 
@@ -71,8 +71,8 @@ Revamped the web presence of Rwanda specialty coffee cooperative, with improved 
 
 <table>
   <tr>
-    <td><a href="https://dukundekawa.rw"><img src="./assets/projects/Women/Much Care and affections put in coffee farming results in most elegant coffees in world.webp" width="380" alt="Dukundekawa"/></a></td>
-    <td><a href="https://dukundekawa.rw/"><img src="./assets/projects/Women/Women Harvesting Coffee.webp" width="380" alt="Dukundekawa"/></a></td>
+    <td><a href="https://dukundekawa.rw"><img src="public/assets/projects/Women/Much Care and affections put in coffee farming results in most elegant coffees in world.webp" width="380" alt="Dukundekawa"/></a></td>
+    <td><a href="https://dukundekawa.rw/"><img src="public/assets/projects/Women/Much Care and affections put in coffee farming results in most elegant coffees in world.webp" width="380" alt="Dukundekawa"/></a></td>
   </tr>
 </table>
 
@@ -88,7 +88,7 @@ Revamped the web presence of Rwanda specialty coffee cooperative, with improved 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)]
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalocean&logoColor=white)
 
 ---
 
