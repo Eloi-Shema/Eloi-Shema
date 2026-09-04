@@ -19,7 +19,7 @@ A music licensing platform I designed, built and maintain solo. A producer uploa
 - Auth via `better-auth` sessions, email verification, OAuth flows
 - Bot & abuse protection via `Arcjet`.
 - Beat files served from `Cloudflare R2` via signed URLs with access control
-- Payments and licensing through `LemonSqueezy`
+- Payments processing through `Paddle`
 - Error monitoring via `Sentry` with custom alerting for any server side error
 - Transactional email via `Brevo`.
 
