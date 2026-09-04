@@ -32,7 +32,7 @@ A music licensing platform I designed, built and maintain solo. A producer uploa
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Paddle](https://img.shields.io/badge/Paddle-#FFDE21?style=for-the-badge&logoColor=black)
+![Paddle](https://img.shields.io/badge/Paddle-FFDE21?style=for-the-badge&logoColor=black)
 ![BetterAuth](https://img.shields.io/badge/better--auth-111827?style=for-the-badge&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash_Redis-c93131?style=for-the-badge&logoColor=black)
 
